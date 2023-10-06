@@ -1,16 +1,23 @@
-### Hi there 👋
+# Hi there, I'm Chavindu Ransara! 👋
 
-<!--
-**ChavinduRansara/ChavinduRansara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science and Engineering student at the University of Moratuwa. 
 
-Here are some ideas to get you started:
+🌱 I'm passionate about technology, coding, and problem-solving.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📚 Currently pursuing my Bachelor's degree in Computer Science and Engineering.
+- 💻 Working on various projects to apply and expand my knowledge in areas such as:
+  - Web development (HTML, CSS, JavaScript)
+  - Programming languages (Python, Java, C++)
+  - Data structures and algorithms
+  - Mobile app development (Android)
+- 🚀 Actively participating in coding competitions and hackathons.
+- 🌐 Exploring the world of open source software and contributing to exciting projects.
+- 📫 You can reach me at [hpchavinduransara@gmail.com](mailto:hpchavinduransara@gmail.com).
+
+## 🔗 Connect with Me
+
+- LinkedIn: [Chavindu Ransara](https://www.linkedin.com/in/chavindu-ransara)
+
+## 📊 GitHub Stats
+
+[![Chavindu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChavinduRansara&show_icons=true&theme=dark)](https://github.com/ChavinduRansara)
