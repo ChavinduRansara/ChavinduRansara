@@ -15,6 +15,3 @@ I'm a Computer Science and Engineering student at the University of Moratuwa.
 
 - LinkedIn: [Chavindu Ransara](https://www.linkedin.com/in/chavindu-ransara)
 
-## 📊 GitHub Stats
-
-[![Chavindu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChavinduRansara&show_icons=true&theme=dark)](https://github.com/ChavinduRansara)
