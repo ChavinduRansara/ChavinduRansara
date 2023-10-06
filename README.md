@@ -6,12 +6,9 @@ I'm a Computer Science and Engineering student at the University of Moratuwa.
 
 - 📚 Currently pursuing my Bachelor's degree in Computer Science and Engineering.
 - 💻 Working on various projects to apply and expand my knowledge in areas such as:
-  - Web development (HTML, CSS, JavaScript)
+  - Web development (HTML, CSS, JavaScript, React, NodeJS)
   - Programming languages (Python, Java, C++)
-  - Data structures and algorithms
-  - Mobile app development (Android)
-- 🚀 Actively participating in coding competitions and hackathons.
-- 🌐 Exploring the world of open source software and contributing to exciting projects.
+  - Mobile app development 
 - 📫 You can reach me at [hpchavinduransara@gmail.com](mailto:hpchavinduransara@gmail.com).
 
 ## 🔗 Connect with Me
